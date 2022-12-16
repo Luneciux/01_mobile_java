@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Todo_List.iml" filepath="$PROJECT_DIR$/.idea/modules/Todo_List.iml" group="Todo_List" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Todo List/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgendaContatosAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/AgendaContatosAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AgendaContatosAndroid.app.unitTest.iml" />
     </modules>
   </component>
 </project>
